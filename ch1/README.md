@@ -18,7 +18,7 @@ int main(void)
     return -1;
 }
 ```
-```cpp
+```sh
 > usr@xps13:~$ g++ hoge.cpp
 > usr@xps13:~$ ./a.out
 > usr@xps13:~$ echo $?
